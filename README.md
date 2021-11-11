@@ -7,7 +7,7 @@
 Udacity Project 3
 
 ### Description
-Describe what your project is about and what it does
+Seeks to provide an indept understanding of Version Control
 
 ### Files used
 Include the files used
